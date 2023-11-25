@@ -1,16 +1,16 @@
 ### Hi, I'm Nanoskript.
 
-On my [website](https://nanoskript.dev/), you can find:
+On my [website](https://nsk.sh/), you can find:
 
-- [Posts and writing about programming](https://nanoskript.dev/posts/)
-- [Tools and pages related to Touhou](https://nanoskript.dev/touhou/) such as:
+- [Posts and writing about programming](https://nsk.sh/posts/)
+- [Tools and pages related to Touhou](https://nsk.sh/touhou/) such as:
 
-  - [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/)
+  - [Touhou Doujinshi Index](https://scarlet.nsk.sh/)
 
-- [Miscellaneous tools and utilities](https://nanoskript.dev/tools/) such as:
+- [Miscellaneous tools and utilities](https://nsk.sh/tools/) such as:
 
-  - [Danbooru Tags Explorer](https://nanoskript.dev/tools/danbooru-tags-explorer/)
-  - [Anime Party Time](https://nanoskript.dev/tools/anime-party-time/)
-  - [Japanese Onomatopoeia Search](https://nanoskript.dev/tools/jp-onomatopoeia/)
+  - [Danbooru Tags Explorer](https://nsk.sh/tools/danbooru-tags-explorer/)
+  - [Anime Party Time](https://nsk.sh/tools/anime-party-time/)
+  - [Japanese Onomatopoeia Search](https://nsk.sh/tools/jp-onomatopoeia/)
 
-and [methods of contacting me](https://nanoskript.dev/socials/).
+and [methods of contacting me](https://nsk.sh/socials/).
